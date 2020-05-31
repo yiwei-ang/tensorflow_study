@@ -1,5 +1,6 @@
 # tensorflow_study
 Deep Learning - Building Neural Network for Image and Text recognition using Tensorflow
+* **NOTE: Kindly access https://nbviewer.jupyter.org/ if you have any issue reddering notebook in GitHub.**
 * Neural Network on Sign MNIST dataset.
   - Dataset Source: https://www.kaggle.com/datamunge/sign-language-mnist
   - Data in in csv format containing pixels information.
